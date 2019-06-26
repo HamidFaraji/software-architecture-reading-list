@@ -12,7 +12,6 @@ Software architecture is the structure of software. Architecture can be planned 
 - [Scalable Web Development](https://towardsdatascience.com/scalable-web-development-d57a46a7f349)
 - [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 
---------------------------------------------------------------------------------
 
 ## Architectures and Patterns Explaination
 
@@ -22,7 +21,6 @@ Software architecture is the structure of software. Architecture can be planned 
 - [Micro-Frontend - Microservices in front-end](https://medium.com/@PepsRyuu/micro-frontends-341defa8d1d4)
 - [Serverless - the future of software architecture?](https://read.acloud.guru/serverless-the-future-of-software-architecture-d4473ffed864)
 
---------------------------------------------------------------------------------
 
 ## Books
 
@@ -32,7 +30,6 @@ Software architecture is the structure of software. Architecture can be planned 
 - [Become a Better Software Architect 
 ](https://bettersoftwarearchitect.com/)
 
---------------------------------------------------------------------------------
 
 ## Courses
 
