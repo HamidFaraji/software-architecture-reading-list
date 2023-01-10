@@ -10,7 +10,7 @@ Software architecture is the structure of software. Architecture can be planned 
 - [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013?source=bookmarks)
 - [30 Shared Principles for discussing Software Architectures](https://hackernoon.com/first-do-no-harm-30-principles-that-helped-me-avoid-fly-by-architecture-reviews-e8952ac632a?source=bookmarks)
 - [Scalable Web Development](https://towardsdatascience.com/scalable-web-development-d57a46a7f349)
-- [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
+- [38 Actions and Insights to Become a Better Software Architect](https://blog.kai-niklas.de/posts/7-38-actions-and-insights-to-become-a-better-software-architect)
 
 
 ## Architectures and Patterns Explaination
